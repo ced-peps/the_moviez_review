@@ -1,4 +1,4 @@
-# filmapivue
+# The moviez review
 
 ## Project setup
 ```
